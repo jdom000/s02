@@ -1,0 +1,39 @@
+{
+    "_id" : "6327478063cdba7058dfaf97",
+    "username" : "user_1",
+    "firstName" : "Jennie",
+    "lastName" : "Kim",
+    "email" : "jennierubyjane@gmail.com",
+    "password" : "kaikuma1",
+    "mobileNumber" : "09777333",
+    "isAdmin" : false,
+    "enrollments" : [ 
+        {
+            "enrollment_id" : "EN1",
+            "course_id" : "8700APSY",
+            "courseName" : "Animal Psychology",
+            "isPaid" : true,
+            "dateEnrolled" : "9-18-2022"
+        }
+    ]
+},
+
+{
+    "_id" : "6327482a63cdba7058dfafcc",
+    "username" : "user_2",
+    "firstName" : "Jihyo",
+    "lastName" : "Park",
+    "email" : "pjihyo@gmail.com",
+    "password" : "jewaypi",
+    "mobileNumber" : "09327088987",
+    "isAdmin" : false,
+    "enrollments" : [ 
+        {
+            "enrollment_id" : "EN2",
+            "course_id" : "88777287IBM",
+            "courseName" : "Introduction to Black Magic",
+            "isPaid" : true,
+            "dateEnrolled" : "9-22-2022"
+        }
+    ]
+}

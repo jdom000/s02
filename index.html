@@ -1,0 +1,38 @@
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Database</title>
+	</head>
+	<body>
+
+		<script type="text/javascript">
+			let blog = `[
+	          {
+	    "_id" : "6326ec4d63cdba7058dfa688",
+	    "title" : "Thiss is an awesome blog!",
+	    "content" : "my first blog.",
+	    "createdOn" : "9/18/2022",
+	    "author" : "dom1",
+	    "comments" : [ 
+	        {
+	            "id" : "comment1",
+	            "comment" : "first comment.",
+	            "author" : "dom1"
+	        }, 
+	        {
+	            "id" : "comment2",
+	            "comment" : "Hello second comment lol",
+	            "author" : "john2"
+	        }
+	    ]
+	}
+  ]`;
+  //console.log(blog);
+  console.log(JSON.parse(blog));
+
+		</script>
+		
+	</body>
+	</html>

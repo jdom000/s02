@@ -1,0 +1,41 @@
+{
+    "_id" : "632843a163cdba7058dfb268",
+    "course_id" : "8700APSY",
+    "name" : "Animal Psychology",
+    "description" : "Introduction to Animal Psychology",
+    "price" : 15000,
+    "slots" : 20,
+    "schedule" : "10:00 - 12:30",
+    "instructor" : "Lisa Manoban",
+    "isActive" : true,
+    "enrollees" : [ 
+        {
+            "enrollee_id" : 1,
+            "userId" : "6327478063cdba7058dfaf97",
+            "userName" : "user_1",
+            "isPaid" : true,
+            "dateEnrolled" : "9-18-2022"
+        }
+    ]
+},
+
+{
+    "_id" : "632847aa63cdba7058dfb310",
+    "course_id" : "88777287IBM",
+    "name" : "Introduction to Black Magic",
+    "description" : "An introduction to black magic",
+    "price" : 20000,
+    "slots" : 15,
+    "schedule" : "3:00-5:00",
+    "instructor" : "Sana Minatozaki",
+    "isActive" : true,
+    "enrollees" : [ 
+        {
+            "enrollee_id" : 2,
+            "userId" : "6327482a63cdba7058dfafcc",
+            "userName" : "user_2",
+            "isPaid" : true,
+            "dateEnrolled" : "9-22-2022"
+        }
+    ]
+}

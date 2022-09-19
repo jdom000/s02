@@ -1,0 +1,19 @@
+{
+    "_id" : "6326ec4d63cdba7058dfa688",
+    "title" : "Thiss is an awesome blog!",
+    "content" : "my first blog.",
+    "createdOn" : "9/18/2022",
+    "author" : "dom1",
+    "comments" : [ 
+        {
+            "id" : "comment1",
+            "comment" : "first comment.",
+            "author" : "dom1"
+        }, 
+        {
+            "id" : "comment2",
+            "comment" : "Hello second comment lol",
+            "author" : "john2"
+        }
+    ]
+}
